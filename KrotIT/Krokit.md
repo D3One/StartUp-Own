@@ -10,7 +10,7 @@ KrokIT is a startup accelerator with roots in Belarus, created by the business i
  
 ➡️If you are in the Russian, Europe or the USA, you have an idea or MVP, you are ready to do high-tech business - we are waiting for you! ⏩ <br />
 
-✅ ###  With us, we guarantee you: <br />
+### ✅ With us, we guarantee you: <br />
 🔼 first profit (for startups that came at the idea stage); <br />
 🔼 increase in profit (for already operating startups); <br />
 🔼 assistance in scaling a startup to foreign markets (USA); <br />
@@ -18,7 +18,7 @@ KrokIT is a startup accelerator with roots in Belarus, created by the business i
 🔼 promotion of a product or service (media, PR, Demo Day, exhibitions); <br />
 🔼 expert support throughout the training and after its completion. <br />
 
-✅ ### Application:  <br />
+### ✅ Application:  <br />
 ➡️You can apply for participation on the accelerator website. The program is selected depending on the stage of the startup - idea, MVP, sales, scaling. <br />
 ➡️ If the startup does not receive the first profit or does not increase profit by 2 times, the accelerator returns the payment: money or a share in the project (according to the concluded contract). <br />
 📢📢For book appointment for consultation on preparing an application (call for paper) and details of cooperation - contact the @W2hack channel direct <br />

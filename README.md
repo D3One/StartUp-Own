@@ -5,7 +5,7 @@ Stuff for startup owners <br />
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/3932e099-7f6f-4985-95c3-b32157e74f7e" />
 
 ---
-## KrokIT StartUp Accelerator
+## [KrokIT StartUp Accelerator](https://github.com/D3One/StartUp-Own/blob/main/KrokIT/README.md)
 
 <img width="1884" height="1060" alt="image" src="https://github.com/user-attachments/assets/fac7f958-2315-4c69-94c0-c992d01e0de1" />
 

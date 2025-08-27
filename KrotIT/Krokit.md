@@ -2,6 +2,8 @@
 
 💻 Great way for talents, get opportunities, vision of real prospects, use high demand technologies and discoveries - WE INVITE YOU TO THE KrokIT IT ACCELERATOR!
 
+- - - 
+
 <img width="1371" height="832" alt="image" src="https://github.com/user-attachments/assets/db4c53c6-eae0-48ae-9b8a-35b297ce201b" />
 
 
@@ -21,7 +23,8 @@ KrokIT is a startup accelerator with roots in Belarus, created by the business i
 ### ✅ Application:  <br />
 ➡️You can apply for participation on the accelerator website. The program is selected depending on the stage of the startup - idea, MVP, sales, scaling. <br />
 ➡️ If the startup does not receive the first profit or does not increase profit by 2 times, the accelerator returns the payment: money or a share in the project (according to the concluded contract). <br />
-📢📢For book appointment for consultation on preparing an application (call for paper) and details of cooperation - contact the @W2hack channel direct <br />
+
+📢📢For book appointment for consultation on preparing an application (call for paper) and details of cooperation - contact the **@W2hack** channel direct <br />
 
 ✔️[English page](https://krokit.org/en/)  <br />
 ✔️[FB](https://www.facebook.com/startup.accelerator.minsk.belarus/)  <br />

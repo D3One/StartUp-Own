@@ -30,3 +30,5 @@ KrokIT is a startup accelerator with roots in Belarus, created by the business i
 ✔️[FB](https://www.facebook.com/startup.accelerator.minsk.belarus/)  <br />
 ✔️[YT](https://www.youtube.com/channel/UCqkNa86a80cupRo4S5VMIWg)  <br />
 ✔️[LnkdIn](https://www.linkedin.com/company/38166776/) <br />
+
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/ac788d02-9be9-4cb4-b2b3-2f68e5a0a509" />

@@ -72,6 +72,6 @@ This table breaks down the essential terminology every founder needs to know, ca
 | **Networking** | The act of interacting with others to exchange information and develop professional or social contacts. A critical skill for any founder. | |
 | **To be in the game** | To be an active, knowledgeable participant in the startup ecosystem. | |
 
-This lexicon is your cheat sheet to navigating the complex and exciting world of startups. Use it to communicate effectively with investors, potential co-founders, and your team. Good luck building the next unicorn! 🦄
+This lexicon is your cheat sheet to navigating the complex and exciting world of startups.
 
 ---
